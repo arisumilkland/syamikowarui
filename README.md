@@ -1,4 +1,7 @@
 # syamikowarui-app
+Vue3を触りたくなって15分で作ったやつ
+
+ボタンを押すとMisskeyに「シャミ子が悪いんだよ」とノートさせることが出来る。
 
 ## Project setup
 ```
